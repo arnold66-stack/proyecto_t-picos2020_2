@@ -18,6 +18,7 @@ public class Ing_sw_2020_2 {
         // TODO code application logic here
         System.out.println("Bienvenidos.");
         System.out.println("Integrando netBeans con github");
+        System.out.println("Version 1.1 modificada desde github");
     }
     
 }
